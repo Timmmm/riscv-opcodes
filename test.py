@@ -3,8 +3,7 @@
 import logging
 import unittest
 
-from parse import *
-from shared_utils import *
+from shared_utils import process_enc_line
 
 
 class EncodingLineTest(unittest.TestCase):
